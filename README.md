@@ -78,3 +78,7 @@ Python, Pandas, NumPy, Scikit-learn, K-Means Clustering, Unsupervised Learning, 
 ## Important Note
 
 K-Means is an unsupervised learning method, so there is no conventional accuracy score. Cluster quality is assessed using measures such as inertia and silhouette score, together with business interpretability.
+
+
+OUTPUT :
+https://customersegmentation-grjyeahijwdv5n9ytkaj7v.streamlit.app/
